@@ -338,7 +338,7 @@
 							<p><small>&copy;2021 Bitrus And Sons Construction Finishing Company. All Rights Reserved. </small></p>
 						</div>
 						<div class="col-md-7 text-right">
-							<p><small>Designed and Developed by <a href="http://yeagitapp.herokuapp.com/" target="_blank">YeagitApp</a> Developer And Resources respectively: <a href="#" target="_blank">Bakare Yusuf</a> &amp; <a href="http://unsplash.com" target="_blank">Unsplash</a></small> </p>
+							<p><small>Designed and Developed by <a href="http://yeagit.herokuapp.com/" target="_blank">YeagitApp</a> Developer And Resources respectively: <a href="#" target="_blank">Bakare Yusuf</a> &amp; <a href="http://unsplash.com" target="_blank">Unsplash</a></small> </p>
 						</div>
 					</div>
 				</div>
@@ -365,6 +365,8 @@
 
 	<!-- Main -->
 	<script src="js/main.js"></script>
+
+	<script async id="slcLiveChat" src="https://widget.sonetel.com/SonetelWidget.min.js" data-account-id="207675790"></script>
 
 	</body>
 </html>
